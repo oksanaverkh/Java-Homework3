@@ -1,9 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-// 3. Сведения о книге состоят из названия, фамилии автора, цены, года издания и количества страниц. 
-// Найти названия книг, в которых простое количество страниц, фамилия автора содержит «А» и год издания после 2010 г, включительно.
-
 public class Task3 {
     public static void main(String[] args) {
         Books item1 = new Books("Book1", "Anyukov", 1040, 2011, 19);
